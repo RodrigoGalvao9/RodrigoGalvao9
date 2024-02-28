@@ -4,7 +4,7 @@
 <div class="sobre-contato">
   <div class="sobre">
     <h2>About me</h2>
-    <p>I'm 18 years old and I'm currently a beginner developer, I love to read and I love to learn.</p>
+    <p>Hello, my name is Rodrigo Galvão, and I'm a developer in construction, I love studying and programming. I have a technical high school degree in systems analysis and development and I am currently entering a technology college.</p>
   </div>
   <div class="contato">
     <h2>Contact</h2>
@@ -22,40 +22,18 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGalvao9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##My Technologies
+## My Technologies
 <div class="tecnologias">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  style="width: 50px; height: 50px;"/>
 </div>
 
-##I'm Learning
+## I'm Learning
 <div class="aprendizado">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="Salesforce" style="width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width: 40px; height: 40px;"/>
 </div>
-
-<style>
-.tecnologias {
-  display: flex;
-  margin-bottom: 20px;
-}
-
-.tecnologias img {
-  width: 50px;
-  height: 50px;
-  margin-right: 10px;
-}
-
-.aprendizado {
-  display: flex;
-  margin-bottom: 20px;
-}
-
-.aprendizado img {
-  width: 50px;
-  height: 50px;
-  margin-right: 10px;
-}
-</style>
