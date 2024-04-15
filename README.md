@@ -4,6 +4,11 @@
   <div class="sobre">
     <h2>😀About me</h2>
     <p>Hi, my name is Rodrigo Galvão, and I'm a developer in construction, I love studying and programming. I have a technical high school degree in systems analysis and development and I am currently entering a technology college.</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoGalvao9&column=-1" alt="RodrigoGalvao9's GitHub trophy">
+</div>
+
   </div>
   <div class="contato">
     <h2> 📞Contact</h2>
