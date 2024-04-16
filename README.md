@@ -2,17 +2,15 @@
 
 <div class="sobre-contato">
   <div class="sobre">
-    <h2>😀About me</h2>
-    <p>Hi, my name is Rodrigo Galvão, and I'm a developer in construction, I love studying and programming. I have a technical high school degree in systems analysis and development and I am currently entering a technology college.</p>
+    <h2>🧍About me</h2>
+    <p>Hello, my name is Rodrigo Galvão and I'm a developer in construction, I'm a student and I love programming. I have a technical high school degree in systems analysis and development and I am currently entering a technology college.</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RodrigoGalvao9&column=-1" alt="RodrigoGalvao9's GitHub trophy">
 </div>
 
-  </div>
-  <div class="contato">
-    <h2> 📞Contact</h2>
-    <div class="redes-sociais">
+
+  <div class="redes-sociais">
         <a href = "mailto:rodrigocorreaneto136@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/rodrigo-galvao9/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div>
@@ -20,7 +18,7 @@
   </div>
 </div>
 
-### 🤩My stats
+### 📊My stats
 <div>
 <a href="https://github.com/RodrigoGalvao9">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGalvao9&layout=compact&langs_count=7&theme=dracula"/>
@@ -38,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"  style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="width: 50px; height: 50px;"/>
+  
 </div>
 
 ### 📖I'm Learning
@@ -45,8 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="Salesforce" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 50px; height: 50px;"/>
 </div>
 
 <br />
