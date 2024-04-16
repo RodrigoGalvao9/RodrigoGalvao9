@@ -10,13 +10,16 @@
 </div>
 
 
-  <div class="redes-sociais">
+<div class="contato">
+    <h2> 📞Contact </h2>
+    <div class="redes-sociais">
         <a href = "mailto:rodrigocorreaneto136@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/rodrigo-galvao9/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div>
     <img alt="Coding" src="macacoComBolsa.gif" align="right" height="380" width="300"/>
   </div>
 </div>
+
 
 ### 📊My stats
 <div>
