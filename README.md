@@ -48,3 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 50px; height: 50px;"/>
 </div>
+
+<br />
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=RodrigoGalvao9&&style=flat-square" alt="Profile views count"/>
+</div>
