@@ -1,7 +1,7 @@
 <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6a00,100:f720db&text=Rodrigo%20Galvão&desc=Developer/Data%20Scientist&descAlignY=53&fontAlignY=35&fontColor=FFFFFF&animation=twinkling&fontSize=45&reversal=false">
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <div style="flex: 1; padding-right: 20px;">
     <h2>🧍About me</h2>
     <p>Hello, my name is Rodrigo Galvão and I'm a developer in construction, I'm a student and I love programming. I have a technical high school degree in systems analysis and development and I am currently entering a technology college.</p>
@@ -13,9 +13,7 @@
 </div>
 
 
-
-
-<div class="contato" align="center">
+<div class="contato">
     <h2> 📞Contact </h2>
     <div class="redes-sociais">
         <a href = "mailto:rodrigocorreaneto136@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,7 +23,7 @@
 </div>
 
 
-<div class="stats" align="center">
+<div class="stats">
   <h3>📊My stats</h3>
   <a href="https://github.com/RodrigoGalvao9">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGalvao9&layout=donut&show_icons=true&bg_color=135deg,ffa300,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&card_font_size=16" height="130em" display="flex" alt="Top Languages Donut">
@@ -35,7 +33,7 @@
 </div>
 
 
-<div class="tecnologias" align="center">
+<div class="tecnologias">
   <h3>💻 My Technologies</h3>
   <details>
   <summary>Click here</summary>
@@ -53,7 +51,7 @@
 </div>
 
 
-<div class="aprendizado" align="center">
+<div class="aprendizado">
   <h3>📖I'm Learning</h3>
   <details>
   <summary>Click here</summary>
@@ -66,7 +64,7 @@
   </details>
 </div>
 
-<div align="center">
+<div>
   <h3>🏆Trophys</h3>
   <details>
   <summary>
