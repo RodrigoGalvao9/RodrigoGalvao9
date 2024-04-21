@@ -10,25 +10,23 @@
 </div>
 
 
-
-
 <div class="contato">
     <h2> 📞Contact </h2>
     <div class="redes-sociais">
         <a href = "mailto:rodrigocorreaneto136@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/rodrigo-galvao9/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div>
-    <img alt="Coding" src="macacoComBolsa.gif" align="right" height="450" width="300"/>
   </div>
 </div>
 
 
 ### 📊My stats
 <div class="stats">
-<a href="https://github.com/RodrigoGalvao9">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGalvao9&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGalvao9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoGalvao9&theme=tokyonight&hide_border=false" alt="Github Stats"/>
+  <img height="150em" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGalvao9&layout=compact&show_icons=true&bg_color=135deg,ffa500,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&card_font_size=16" alt="Top Languages Compact">
+  <img alt="gif" src="data/macacoJogandopc.gif" display="flex" height="150" width="300"/>
+  <a href="https://github.com/RodrigoGalvao9">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoGalvao9&show_icons=true&bg_color=135deg,ffa500,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="150em">
+  <img display="flex" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoGalvao9&theme=sea&hide_border=true&border_radius=10&background=35%2CFFA500%2CFF6347%2C800080&width=600" alt="GitHub Streak" />
 </div>
 
 
@@ -38,13 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"  style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"  style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL server" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter notebook" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="Dbevaer" style="width: 50px; height: 50px;"/>
 </div>
 
 
@@ -53,12 +51,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="Salesforce" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" style="width: 50px; height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="width: 50px; height: 50px;"/>
 </div>
 
-<br />
+<br>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=RodrigoGalvao9&&style=flat-square" alt="Profile views count"/>
