@@ -22,10 +22,10 @@
 
 ### 📊My stats
 <div class="stats">
-  <img height="150em" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGalvao9&layout=compact&show_icons=true&bg_color=135deg,ffa500,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&card_font_size=16" alt="Top Languages Compact">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGalvao9&layout=donut&show_icons=true&bg_color=135deg,ffa500,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&card_font_size=16" alt="Top Languages Donut">
   <img alt="gif" src="data/macacoJogandopc.gif" display="flex" height="150" width="300"/>
   <a href="https://github.com/RodrigoGalvao9">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoGalvao9&show_icons=true&bg_color=135deg,ffa500,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="150em">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoGalvao9&show_icons=true&bg_color=135deg,ffa500,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&rank_icon=github" height="150em">
   <img display="flex" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoGalvao9&theme=sea&hide_border=true&border_radius=10&background=35%2CFFA500%2CFF6347%2C800080&width=600" alt="GitHub Streak" />
 </div>
 
@@ -59,5 +59,5 @@
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=RodrigoGalvao9&&style=flat-square" alt="Profile views count"/>
+    <a src="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Profile View" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRodrigoGalvao9%2Fhit-counter&count_bg=%23FF2626&title_bg=%23FF7400&icon=awesomelists.svg&icon_color=%23000000&title=Views&edge_flat=false"/></a>
 </div>
