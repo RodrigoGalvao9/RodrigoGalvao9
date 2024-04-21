@@ -1,4 +1,5 @@
-<img alt="Layout do header" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff6a00,100:f720db&text=Rodrigo%20Galvão&descAlignY=57&reversal=true&desc=Developer/Data%20Scientist&textBg=false&fontSize=30&descSize=15&animation=twinkling&descAlign=30&fontAlignY=40&fontColor=FFFFFF">
+<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6a00,100:f720db&text=Rodrigo%20Galvão&desc=Developer/Data%20Scientist&descAlignY=53&fontAlignY=35&fontColor=FFFFFF&animation=twinkling&fontSize=45&reversal=false">
+
 
 <div class="sobre-contato">
   <div class="sobre" align="center">
@@ -34,27 +35,33 @@
 
 <div class="tecnologias" align="center">
   <h3>💻 My Technologies</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL server" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter notebook" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="Dbevaer" style="width: 40px; height: 40px;"/>
+  <details>
+  <summary>Click here</summary>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL server" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter notebook" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="Dbevaer" style="width: 40px; height: 40px;"/>
+  </details>
 </div>
 
 
 <div class="aprendizado" align="center">
   <h3>📖I'm Learning</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="Salesforce" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="width: 40px; height: 40px;"/>
+  <details>
+  <summary>Click here</summary>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="Salesforce" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" style="width: 40px; height: 40px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="width: 40px; height: 40px;"/>
+  </details>
 </div>
 
 <br>
