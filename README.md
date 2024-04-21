@@ -59,5 +59,5 @@
 <br>
 
 <div align="center">
-    <a src="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Profile View" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRodrigoGalvao9%2Fhit-counter&count_bg=%23FF2626&title_bg=%23FF7400&icon=awesomelists.svg&icon_color=%23000000&title=Views&edge_flat=false"/></a>
+    <a href="https://hits.sh/github.com/RodrigoGalvao9/hits/"><img alt="Hits" src="https://hits.sh/github.com/RodrigoGalvao9/hits.svg?style=plastic&label=Views&color=ff0000&labelColor=fe7d37"/></a>
 </div>
