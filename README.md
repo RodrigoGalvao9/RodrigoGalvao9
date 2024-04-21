@@ -1,15 +1,18 @@
 <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6a00,100:f720db&text=Rodrigo%20Galvão&desc=Developer/Data%20Scientist&descAlignY=53&fontAlignY=35&fontColor=FFFFFF&animation=twinkling&fontSize=45&reversal=false">
 
 
-<div class="sobre-contato">
-  <div class="sobre" align="center">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
     <h2>🧍About me</h2>
     <p>Hello, my name is Rodrigo Galvão and I'm a developer in construction, I'm a student and I love programming. I have a technical high school degree in systems analysis and development and I am currently entering a technology college.</p>
   </div>
 
-<div align="center">
-   <img width="800"src="https://github-profile-trophy.vercel.app/?username=RodrigoGalvao9&column=8&theme=darkhub&no-frame=true&no-bg=true" alt="RodrigoGalvao9's GitHub trophy">
+  <div>
+    <img src="data/macacoJogandopc.gif" alt="humor" height="160" width="250">
+  </div>
 </div>
+
+
 
 
 <div class="contato" align="center">
@@ -25,13 +28,11 @@
 <div class="stats" align="center">
   <h3>📊My stats</h3>
   <a href="https://github.com/RodrigoGalvao9">
-    <img src="data/macacoJogandopc.gif" alt="humor" height="200" width="300" display="flex">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGalvao9&layout=donut&show_icons=true&bg_color=135deg,ffa300,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&card_font_size=16" height="130em" display="flex" alt="Top Languages Donut">
     <img src="https://github-readme-stats.vercel.app/api?username=RodrigoGalvao9&show_icons=true&bg_color=135deg,ffa300,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&rank_icon=github" height="130em" alt="Profile stats" display="flex">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoGalvao9&theme=sea&hide_border=true&border_radius=10&background=35%2CFFA300%2CFF6347%2C800080&width=600" alt="GitHub Streak" display="flex" height="130em"/>
   </a>
 </div>
-
 
 
 <div class="tecnologias" align="center">
@@ -66,8 +67,16 @@
 </div>
 
 <div align="center">
-    <a href="https://hits.sh/github.com/RodrigoGalvao9/hits/"><img alt="Hits" src="https://hits.sh/github.com/RodrigoGalvao9/hits.svg?style=plastic&label=Views&color=ff0000&labelColor=fe7d37"/></a>
-</div>
+  <h3>🏆Trophys</h3>
+  <details>
+  <summary>
+  Click here
+  </summary>
+    <div align="center">
+      <img width="800"src="https://github-profile-trophy.vercel.app/?username=RodrigoGalvao9&column=8&theme=darkhub&no-frame=true&no-bg=true" alt="RodrigoGalvao9's GitHub trophy">
+    </div>
+  </details>
+<div>
 
 <footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Feito%20com%20❤️&descAlignY=57&reversal=true&textBg=false&fontSize=20&descSize=15&animation=fadeIn&descAlign=30&fontAlignY=73&fontColor=FFFFFF&section=footer" alt="Footer">
