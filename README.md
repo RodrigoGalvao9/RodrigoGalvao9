@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+<img alt="Layout do header" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6a00,100:f720db&text=Rodrigo%20Galvão&descAlignY=57&reversal=true&desc=Developer/Data%20Scientist&textBg=false&fontSize=50&descSize=15&animation=twinkling&descAlign=50&fontAlignY=40&fontColor=FFFFFF">
 
 <div class="sobre-contato">
   <div class="sobre">
@@ -61,3 +61,7 @@
 <div align="center">
     <a href="https://hits.sh/github.com/RodrigoGalvao9/hits/"><img alt="Hits" src="https://hits.sh/github.com/RodrigoGalvao9/hits.svg?style=plastic&label=Views&color=ff0000&labelColor=fe7d37"/></a>
 </div>
+
+<footer align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Feito%20com%20❤️&descAlignY=57&reversal=true&textBg=false&fontSize=20&descSize=15&animation=fadeIn&descAlign=50&fontAlignY=73&fontColor=FFFFFF&section=footer" alt="Footer">
+</footer>
