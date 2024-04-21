@@ -25,6 +25,7 @@
 <div class="stats" align="center">
   <h3>📊My stats</h3>
   <a href="https://github.com/RodrigoGalvao9">
+    <img src="data/macacoJogandopc.gif" alt="humor" height="200" width="300" display="flex">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGalvao9&layout=donut&show_icons=true&bg_color=135deg,ffa300,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&card_font_size=16" height="130em" display="flex" alt="Top Languages Donut">
     <img src="https://github-readme-stats.vercel.app/api?username=RodrigoGalvao9&show_icons=true&bg_color=135deg,ffa300,ff6347,800080&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&rank_icon=github" height="130em" alt="Profile stats" display="flex">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoGalvao9&theme=sea&hide_border=true&border_radius=10&background=35%2CFFA300%2CFF6347%2C800080&width=600" alt="GitHub Streak" display="flex" height="130em"/>
@@ -63,8 +64,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="width: 40px; height: 40px;"/>
   </details>
 </div>
-
-<br>
 
 <div align="center">
     <a href="https://hits.sh/github.com/RodrigoGalvao9/hits/"><img alt="Hits" src="https://hits.sh/github.com/RodrigoGalvao9/hits.svg?style=plastic&label=Views&color=ff0000&labelColor=fe7d37"/></a>
