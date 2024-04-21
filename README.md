@@ -62,6 +62,8 @@
     <a href="https://hits.sh/github.com/RodrigoGalvao9/hits/"><img alt="Hits" src="https://hits.sh/github.com/RodrigoGalvao9/hits.svg?style=plastic&label=Views&color=ff0000&labelColor=fe7d37"/></a>
 </div>
 
+![Snake animation](https://github.com/RodrigoGalvao9/RodrigoGalvao9/blob/output/github-contribution-grid-snake.svg)
+
 <footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Feito%20com%20❤️&descAlignY=57&reversal=true&textBg=false&fontSize=20&descSize=15&animation=fadeIn&descAlign=50&fontAlignY=73&fontColor=FFFFFF&section=footer" alt="Footer">
 </footer>
