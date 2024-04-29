@@ -17,8 +17,17 @@
     <h2> 📞Contact </h2>
     <div class="redes-sociais">
         <a href = "mailto:rodrigocorreaneto136@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/rodrigo-galvao9/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+        <a href="https://www.linkedin.com/in/rodrigo-galvao9/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
+  </div>
+</div>
+
+<div class="Redes sociais">
+  <h2>🌐 Redes Sociais</h2>
+  <div>
+    <a href="https://stackoverflow.com/users/18017732/rodrigo-galv%c3%a3o" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+    <a href="https://medium.com/@rodrigogalvao136" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+    <a href="https://dev.to/rodrigogalvao9" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-DEV.to-000000?style=for-the-badge&logo=dev.to" target="_blank"></a>
   </div>
 </div>
 
@@ -36,7 +45,7 @@
 <div class="tecnologias">
   <h3>💻 My Technologies</h3>
   <details>
-  <summary>Click here</summary>
+  <summary style="cursor: pointer;">Click here</summary>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 40px; height: 40px;"/>
@@ -54,7 +63,7 @@
 <div class="aprendizado">
   <h3>📖I'm Learning</h3>
   <details>
-  <summary>Click here</summary>
+  <summary style="cursor: pointer;">Click here</summary>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="Salesforce" style="width: 40px; height: 40px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 40px; height: 40px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="width: 40px; height: 40px;"/>
@@ -67,9 +76,7 @@
 <div>
   <h3>🏆Trophys</h3>
   <details>
-  <summary>
-  Click here
-  </summary>
+  <summary style="cursor: pointer;">Click here</summary>
     <div align="center">
       <img width="800"src="https://github-profile-trophy.vercel.app/?username=RodrigoGalvao9&column=8&theme=darkhub&no-frame=true&no-bg=true" alt="RodrigoGalvao9's GitHub trophy">
     </div>
@@ -79,3 +86,4 @@
 <footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Feito%20com%20❤️&descAlignY=57&reversal=true&textBg=false&fontSize=20&descSize=15&animation=fadeIn&descAlign=30&fontAlignY=73&fontColor=FFFFFF&section=footer" alt="Footer">
 </footer>
+
