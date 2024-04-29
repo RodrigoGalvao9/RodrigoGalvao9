@@ -86,4 +86,3 @@
 <footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Feito%20com%20❤️&descAlignY=57&reversal=true&textBg=false&fontSize=20&descSize=15&animation=fadeIn&descAlign=30&fontAlignY=73&fontColor=FFFFFF&section=footer" alt="Footer">
 </footer>
-
