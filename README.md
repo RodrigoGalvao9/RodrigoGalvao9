@@ -23,7 +23,7 @@
 </div>
 
 <div class="Redes sociais">
-  <h2>🌐 Redes Sociais</h2>
+  <h2>🌐 Social networks</h2>
   <div>
     <a href="https://stackoverflow.com/users/18017732/rodrigo-galv%c3%a3o" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
     <a href="https://medium.com/@rodrigogalvao136" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
