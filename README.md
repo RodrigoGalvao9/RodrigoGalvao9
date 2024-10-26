@@ -28,6 +28,7 @@
     <a href="https://stackoverflow.com/users/18017732/rodrigo-galv%c3%a3o" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
     <a href="https://medium.com/@rodrigogalvao136" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
     <a href="https://dev.to/rodrigogalvao9" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-DEV.to-000000?style=for-the-badge&logo=dev.to" target="_blank"></a>
+    <a href="https://app.daily.dev/rodrigogalvao9" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Daily.dev-A259FF?style=for-the-badge&logo=daily.dev&logoColor=ffffff" target="_blank"></a>
   </div>
 </div>
 
