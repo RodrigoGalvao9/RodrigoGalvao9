@@ -1,4 +1,4 @@
-<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff6a00,100:f720db&text=Rodrigo%20Galvão&desc=Developer&descAlignY=53&fontAlignY=35&fontColor=FFFFFF&animation=twinkling&fontSize=45&reversal=false">
+<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff6a00,100:f720db&text=Rodrigo%20Galvão&descAlignY=53&fontAlignY=35&fontColor=FFFFFF&animation=twinkling&fontSize=45&reversal=false">
 
 
 <div style="display: flex;">
