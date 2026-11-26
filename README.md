@@ -2,9 +2,11 @@
 
 
 <div style="display: flex;">
-  <div style="flex: 1; padding-right: 20px;">
+ <div style="flex: 1; padding-right: 20px;">
     <h2>About me</h2>
-    <p>Hi, I'm Rodrigo Galvão, a developer with less than two years of professional experience, mainly working as a backend developer. I'm also a full-stack developer, or at least I try to be</p>
+    <p>Hi, I'm Rodrigo Galvão, a software developer focused on backend engineering, software architecture, and application security. I work primarily with C#, .NET, Python, and SQL, with experience in full-stack development using JavaScript and TypeScript.</p>
+    <p>I'm passionate about software quality, automated testing, clean architecture, cybersecurity fundamentals, secure coding, and DevOps practices. I also explore AI engineering, building LLM-powered applications and multi-agent systems.</p>
+    <p>Always learning, experimenting, and building reliable, secure, and maintainable software.</p>
   </div>
 
   <div>
